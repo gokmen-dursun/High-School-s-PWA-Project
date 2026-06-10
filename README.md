@@ -35,13 +35,13 @@ My school already has a website, but it's outdated, hard to navigate, and studen
 ## Business Model
 
 ### It's free for students
-Students don't choose their school tools but they just use them (or don't). If there's a price barrier, adoption dies. Free for students = maximum reach = real impact, and that's the whole point of this project.
+Students don't choose their school tools but they just use them (or don't). If there's a price barrier, adoption dies. Free for students = maximum reach = real impact.
 
 ### 150–300 €/year of budgets for high schools
-Most schools spend a lot of money per year on tools that nobody uses. SchoolHub is cheap enough to require no special approval, small enough to fit in any existing digital budget and real enough to justify itself after one semester.
+Most schools spend a lot of money per year on tools that nobody uses, but the point of SchoolHub is that it's cheap enough to require no special approval, small enough to fit in any existing digital budget and real enough to justify itself after one semester.
 
 ### local sponsors
-Local businesses (bakeries, tutoring centers, driving schools) already want to reach high schoolers, so a small discreet logo directing to the local business website in the app beats a flyer distribution. I want to make the local businesses pay for this, but it depends if the project works or not. If it works a lot, then I will make this happen.
+Local businesses (bakeries, tutoring centers, driving schools) already want to reach high schoolers, so a small discreet logo directing to the local business website in the app is better than flyer distribution. I want to make the local businesses pay for this, but it depends if the project works or not. If it works a lot, then I will make this happen.
 
 ### the AuRA grant 
 The Auvergne-Rhône-Alpes region funds young entrepreneurs up to 2 000 €. This project is exactly what it targets: local, educational, built by a minor, with real social impact. It also adds serious credibility to an Ivy League application.
