@@ -1,10 +1,10 @@
 # High-School-s-PWA-Project
 Hi, I'm Gokmen Dursun, an 11th grader from France building a PWA that centralizes high school life, all in one place. My goal is to make information easily accessible for every student and their parents, while working toward my dream of attending an Ivy League university.
 
-## Vision
+## My Vision
 My school already has a website, but it's outdated, hard to navigate, and students use it once per month. SchoolHub is the app students actually want to use: fast, mobile-first, with real-time info and push notifications. Built by a student, for students. The goal is to make the app useful and essential.
 
-## Features
+## The Features
 - [ ] 📅 **Events calendar + Sports Association** —
       *Students never know what's happening and this fixes the issue.*
 - [ ] 🍽️ **Real-time cafeteria menu** —
@@ -55,7 +55,7 @@ The Auvergne-Rhône-Alpes region funds young entrepreneurs up to 2 000 €. This
 | Target deadline | June 2027 |
 | Status | In progress — learning phase |
 
-**Why ~10 €/year?**
+**Why ~10 €/year ?**
 Vercel hosts the app for free and Supabase handles the database for free up to 50 000 users. The only real cost is the domain name which is around 10 €/year. That means this project runs at near-zero cost until it reaches the size of a small city.
 
 ## 👤 Author
