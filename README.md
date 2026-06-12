@@ -8,7 +8,7 @@ My school already has a website, but it's outdated, hard to navigate, and studen
 - [ ] 📅 **Events calendar + Sports Association** —
       *Students never know what's happening and this fixes the issue*
 - [ ] 🍽️ **Real-time cafeteria menu** —
-      * It's the number 1 question every morning for students. In the main screen there will be all the infos for the cafeteria menu*
+      *It's the number 1 question every morning for students. In the main screen there will be all the infos for the cafeteria menu*
 - [ ] 📰 **School news & announcements** —
       *No more missing important info on a bad website. It's shown instantly when opening the app*
 - [ ] 🔔 **Push notifications** —
