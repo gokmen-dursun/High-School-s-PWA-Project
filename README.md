@@ -35,7 +35,7 @@ My school already has a website, but it's outdated, hard to navigate, and studen
 ## Business Model
 
 ### It's free for students
-Students don't choose their school tools but they just use them (or don't). If there's a price barrier then adoption dies. Free for students = maximum reach = more impact.
+Students don't choose their school's tools but they just use them (or don't). If there's a price barrier then adoption dies. Free for students = maximum reach = more impact.
 
 ### 150–300 €/year of budgets for high schools
 Most schools spend a lot of money per year on tools that nobody uses, but the point of the app is that it's cheap enough to require no special approval, small enough to fit in any existing digital budget and real enough to justify itself after one semester.
