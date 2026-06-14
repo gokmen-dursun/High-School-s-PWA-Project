@@ -1,5 +1,5 @@
 # High-School-s-PWA-Project
-Hi, I'm Gokmen Dursun, an 11th grader from France building a PWA that centralizes high school life, all in one place. My goal is to make information easily accessible for every student and their parents, while working toward my dream of attending an Ivy League university.
+Hi, I'm Gokmen Dursun, an 10th grader from France building a PWA that centralizes high school life, all in one place. My goal is to make information easily accessible for every student and their parents, while working toward my dream of attending an Ivy League university.
 
 ## My Vision
 My school already has a website, but it's outdated, hard to navigate, and students use it once per month. SchoolHub (temporary name) is the app students actually want to use: fast, mobile-first, with real-time info and push notifications. Built by a student, for students. The goal is to make the app useful and essential.
