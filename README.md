@@ -1,5 +1,5 @@
 # High-School-s-PWA-Project
-Hi, I'm Gokmen Dursun, an 10th grader from France building a PWA that centralizes high school life, all in one place. My goal is to make information easily accessible for every student and their parents, while working toward my dream of attending an Ivy League university.
+Hi, I'm Gokmen Dursun, an 10th grader from France building and replacing the actual highschool website for a PWA that centralizes high school life, all in one place. My goal is to make information easily accessible for every student and their parents, while working toward my dream of attending an Ivy League university.
 
 ## My Vision
 My school already has a website, but it's outdated, hard to navigate, and students use it once per month. SchoolHub (temporary name) is the app students actually want to use: fast, mobile-first, with real-time info and push notifications. Built by a student, for students. The goal is to make the app useful and essential.
@@ -11,8 +11,6 @@ My school already has a website, but it's outdated, hard to navigate, and studen
       *It's the number 1 question every morning for students. In the main screen there will be all the infos for the cafeteria menu*
 - [ ] 📰 **School news & announcements** —
       *No more missing important info on a bad website. It's shown instantly when opening the app*
-- [ ] 🔔 **Push notifications** —
-      *What makes it a real app and not just another website: you get the info without having to open it*
 - [ ] 🗂️ **Admin info — registrations, files, contacts** —
       *Parents especially struggle to find this, now it's centralized and always up to date*
       
@@ -24,6 +22,7 @@ My school already has a website, but it's outdated, hard to navigate, and studen
 
 
 ## The Roadmap
+I will develop the project while focusing on another project. This project is not my main goal.
 | Phase | Description | Timeline |
 |---|---|---|
 | 1 | Learn HTML / CSS / JS | Now to Aug 2026 |
