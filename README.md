@@ -22,14 +22,8 @@ My school already has a website, but it's outdated, hard to navigate, and studen
 
 
 ## The Roadmap
-I will develop the project while focusing on another project. This project is not my main goal.
-| Phase | Description | Timeline |
-|---|---|---|
-| 1 | Learn HTML / CSS / JS | Now to Aug 2026 |
-| 2 | Learn React + Supabase | Sept to Oct 2026 |
-| 3 | Build the MVP | Nov 2026 to Jan 2027 |
-| 4 | Launch + real users | Feb to Apr 2027 |
-| 5 | Expand to other schools | May to Jun 2027 |
+This project is currently on hold. I am prioritizing Unreliable, a multiplayer social deduction game in Unity/C#, as my main technical project. SchoolHub will resume in early 2027 once the core networking architecture of Unreliable is complete.
+Full roadmap will be updated at that point.
 
 ## Business Model
 
